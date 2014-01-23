@@ -1,0 +1,3 @@
+[submodule "imageCompare"]
+	path = imageCompare
+	url = https://github.com/aknew/imageCompare
