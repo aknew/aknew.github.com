@@ -1,0 +1,95 @@
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<title>Разновидности мелкоформатных полушек</title>
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-52766593-1', 'auto');
+            ga('send', 'pageview');
+
+        </script>
+        <script src="js/jquery-3.1.0.min.js"></script>
+        <script type="text/javascript">
+        	$(document).ready(function(){
+										  $.ajax({
+										    url: "data/list.json",
+										    dataType: 'json',
+										    success: function(data) {
+											    var years = [];
+											    for (i = 0; i < data.length; i++) {
+											    	var text = data[i].year+" "+ data[i].mintmark;
+											    	if (!years.includes(text)){
+											    		$(".contents").append("<p><a href=\"#"+data[i].id+"\">"+text+"</a></p>")
+											    		years.push(text)
+											    		text = "<h2 id=\""+data[i].id+"\">"+text+"</h2>"											    		
+											    	}
+											    	else {
+											    		text = ""
+											    	}
+											    	text += "<p> Аверс: " + data[i].avers +"<p>"
+											    	text += "<p> Реверс: " + data[i].revers +"<p>"
+											    	text += "<hr>"
+											    	$(".varietyList").append(text)
+												    
+												} 
+										    },
+										    error: function() {
+										      alert("error");
+										    }
+										  });        
+										});
+        </script>
+	</head>
+	<body>
+		<div class="contents">
+			<h1>Оглавление:</h1>
+		</div>
+		<div class="varietyList">
+			<h1>Перечень разновидностей:</h1>			
+		</div>
+
+
+        <!-- Yandex.Metrika counter -->
+        <script type="text/javascript">
+            (function (d, w, c) {
+                (w[c] = w[c] || []).push(function () {
+                    try {
+                        w.yaCounter25571072 = new Ya.Metrika({id: 25571072,
+                            clickmap: true,
+                            trackLinks: true,
+                            accurateTrackBounce: true});
+                    } catch (e) {
+                    }
+                });
+
+                var n = d.getElementsByTagName("script")[0],
+                        s = d.createElement("script"),
+                        f = function () {
+                            n.parentNode.insertBefore(s, n);
+                        };
+                s.type = "text/javascript";
+                s.async = true;
+                s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+                if (w.opera == "[object Opera]") {
+                    d.addEventListener("DOMContentLoaded", f, false);
+                } else {
+                    f();
+                }
+            })(document, window, "yandex_metrika_callbacks");
+        </script>
+        <noscript><div><img src="//mc.yandex.ru/watch/25571072" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+        <!-- /Yandex.Metrika counter -->
+	</body>
+</html>

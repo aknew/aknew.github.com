@@ -1,0 +1,3576 @@
+[
+    {
+        "avers": "Сборная запись для отмечания всего того множества фальшаков что есть в коллекции",
+        "comment": "не вижу смысла вводить для этого отдельные разновидности в каждом году тем более что год там может быть весьма странным или вообще не влезть",
+        "currCoinId": "{5787a708-cc24-4a18-ae94-9470407f10a4}",
+        "edge": "",
+        "id": "{0460f37c-8beb-4ec7-beb3-cdae8f8fb1b7}",
+        "mint": "",
+        "mintmark": "-",
+        "overdates": "",
+        "rarity": 0,
+        "revers": "",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "Фальшак (подделка для обращения)",
+        "year": "-"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "3",
+                "rarity": "3 руб.",
+                "refID": "1a98e488-9c1b-11e5-a08d-84a6c83e1b73",
+                "srid": "Ильин"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "coins.su"
+            }
+        ],
+        "avers": "орел набитый пуансоном пера; короны императорские; античный хвост",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a98e488-9c1b-11e5-a08d-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "редко",
+        "revers": "год цифрами (\"Мачты\")",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1711 (1718)"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "описана как с буквами НП и 1721 года",
+                "number": "233.2800",
+                "rarity": "",
+                "refID": "1a90cc26-9c1b-11e5-89d6-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "Конрос"
+            }
+        ],
+        "avers": "орел образца 1718 года (хвост елкой); короны с 3 квадратными зубцами",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a90cc26-9c1b-11e5-89d6-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "редко",
+        "revers": "год цифрами (\"Мачты\")",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1711 (1718)"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "http://numizrus.ru"
+            }
+        ],
+        "avers": "орел образца 1718 года (хвост елкой); центральная корона императорская небольшого размера; держава в правой лапе",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a9451dc-9c1b-11e5-9a2c-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "редко",
+        "revers": "год цифрами (\"Мачты\")",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1711 (1718)"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "фото с молотка"
+            }
+        ],
+        "avers": "орел образца 1718 года (хвост елкой); центральная корона крупная контурная; держава в правой лапе",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a968410-9c1b-11e5-9fd8-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "редко",
+        "revers": "год цифрами (\"Мачты\")",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1711 (1718)"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "coins.su"
+            }
+        ],
+        "avers": "орел образца 1718 года со штриховкой на груди и языками; короны императорские без крестов",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a92cb22-9c1b-11e5-a12d-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "редко",
+        "revers": "год цифрами (\"Мачты\")",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1711 (1718)"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "т. 95 ил. 33, 40 и 41",
+                "rarity": "",
+                "refID": "1aabd87a-9c1b-11e5-bbb0-84a6c83e1b73",
+                "srid": "ВКГМ"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "http://coins.su/forum/index.php?showtopic=160792\n"
+            }
+        ],
+        "avers": "\"куцый\" орел (с небольшими крыльями); хвост из трех овальных перьев небольшого размера",
+        "comment": "",
+        "currCoinId": "{952397f9-bc40-4d6d-afc0-d9ae825f1d14}",
+        "edge": "",
+        "id": "1aabd87a-9c1b-11e5-bbb0-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "реже",
+        "revers": "год цифрами; сверху корона",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1718"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "3652",
+                "rarity": "R",
+                "refID": "1ab179a8-9c1b-11e5-931e-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "",
+                "number": "т.95 ил. 39",
+                "rarity": "",
+                "refID": "1ab179a8-9c1b-11e5-931e-84a6c83e1b73",
+                "srid": "ВКГМ"
+            },
+            {
+                "comment": "",
+                "number": "5",
+                "rarity": "",
+                "refID": "1ab179a8-9c1b-11e5-931e-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.950",
+                "rarity": "",
+                "refID": "1ab179a8-9c1b-11e5-931e-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": "15",
+                "rarity": "",
+                "refID": "1ab179a8-9c1b-11e5-931e-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "m-dv.ru"
+            },
+            {
+                "file": "f732ac1492c80178d20fbed485dc1cb4.jpg",
+                "source": "coins.su"
+            }
+        ],
+        "avers": "императорская корона",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1ab179a8-9c1b-11e5-931e-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами; сверху корона",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1718"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "1718а",
+                "rarity": "РР",
+                "refID": "1aa4fa48-9c1b-11e5-bd0d-84a6c83e1b73",
+                "srid": "Адрианов-Медь"
+            },
+            {
+                "comment": "",
+                "number": "3641",
+                "rarity": "R2",
+                "refID": "1aa4fa48-9c1b-11e5-bd0d-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "",
+                "number": "т. 95 ил. 32",
+                "rarity": "",
+                "refID": "1aa4fa48-9c1b-11e5-bd0d-84a6c83e1b73",
+                "srid": "ВКГМ"
+            },
+            {
+                "comment": "",
+                "number": "1",
+                "rarity": "10р",
+                "refID": "1aa4fa48-9c1b-11e5-bd0d-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.600",
+                "rarity": "",
+                "refID": "1aa4fa48-9c1b-11e5-bd0d-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": "2404",
+                "rarity": "черта",
+                "refID": "1aa4fa48-9c1b-11e5-bd0d-84a6c83e1b73",
+                "srid": "Уздеников"
+            },
+            {
+                "comment": "",
+                "number": "2",
+                "rarity": "",
+                "refID": "1aa4fa48-9c1b-11e5-bd0d-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "avers": "корона о 3 зубцах",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1aa4fa48-9c1b-11e5-bd0d-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1718"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "различные варианты орлов",
+                "number": "т. 95 ил. 34 -38, 42",
+                "rarity": "",
+                "refID": "1aaeb88a-9c1b-11e5-923b-84a6c83e1b73",
+                "srid": "ВКГМ"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "МиМ"
+            }
+        ],
+        "avers": "орел образца 1718 года, хорошо проработанный с остями в крыльях; короны о 3 зубца",
+        "comment": "",
+        "currCoinId": "{d95cacc7-72cd-4d05-b20e-08542b469397}",
+        "edge": "",
+        "id": "1aaeb88a-9c1b-11e5-923b-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами; сверху корона",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1718"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "1718в",
+                "rarity": "Р",
+                "refID": "1ab1528c-9c1b-11e5-bc56-84a6c83e1b73",
+                "srid": "Адрианов-Медь"
+            },
+            {
+                "comment": "",
+                "number": "3651",
+                "rarity": "R",
+                "refID": "1ab1528c-9c1b-11e5-bc56-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "",
+                "number": "205.2",
+                "rarity": "",
+                "refID": "1ab1528c-9c1b-11e5-bc56-84a6c83e1b73",
+                "srid": "Волмар"
+            },
+            {
+                "comment": "",
+                "number": "4",
+                "rarity": "3р",
+                "refID": "1ab1528c-9c1b-11e5-bc56-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.800",
+                "rarity": "",
+                "refID": "1ab1528c-9c1b-11e5-bc56-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": "14",
+                "rarity": "",
+                "refID": "1ab1528c-9c1b-11e5-bc56-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "avers": "сверху корона а 3 зубцах",
+        "comment": "ни у кого нет изображений",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1ab1528c-9c1b-11e5-bc56-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами; сверху нет короны",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1718"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "1718г",
+                "rarity": "РРР",
+                "refID": "1aab3c1e-9c1b-11e5-87f1-84a6c83e1b73",
+                "srid": "Адрианов-Медь"
+            },
+            {
+                "comment": "",
+                "number": "3763",
+                "rarity": "R4",
+                "refID": "1aab3c1e-9c1b-11e5-87f1-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "",
+                "number": "8",
+                "rarity": "150р",
+                "refID": "1aab3c1e-9c1b-11e5-87f1-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "2409",
+                "rarity": "!!",
+                "refID": "1aab3c1e-9c1b-11e5-87f1-84a6c83e1b73",
+                "srid": "Уздеников"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "Источник": "из каталога Узденикова"
+            },
+            {
+                "file": "DSC_0428.jpg",
+                "Источник": "нумизматическая экспозиция Государственного Эрмитажа, снимок мой",
+                "описание": "Полушка 171I8 по сравнению с обычными ВРПшками и большоформатной полушкой. Картинка состоит из двух кусочков чтобы съэкономить место, но реально это один кадр"
+            }
+        ],
+        "avers": "императорская корона",
+        "comment": "кружок большего размера, вес около 2 грамм ",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1aab3c1e-9c1b-11e5-87f1-84a6c83e1b73",
+        "mint": "",
+        "mintmark": "I между цифр года 1 и 8",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами; сверху корона и нет ВРП",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1718"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "3654",
+                "rarity": "R2",
+                "refID": "1aa743e6-9c1b-11e5-af42-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "",
+                "number": "т. 95 ил. 44",
+                "rarity": "",
+                "refID": "1aa743e6-9c1b-11e5-af42-84a6c83e1b73",
+                "srid": "ВКГМ"
+            },
+            {
+                "comment": "",
+                "number": "205.3",
+                "rarity": "",
+                "refID": "1aa743e6-9c1b-11e5-af42-84a6c83e1b73",
+                "srid": "Волмар"
+            },
+            {
+                "comment": "",
+                "number": "7",
+                "rarity": "15р",
+                "refID": "1aa743e6-9c1b-11e5-af42-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.700",
+                "rarity": "",
+                "refID": "1aa743e6-9c1b-11e5-af42-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": "2408",
+                "rarity": "черта с точкой",
+                "refID": "1aa743e6-9c1b-11e5-af42-84a6c83e1b73",
+                "srid": "Уздеников"
+            },
+            {
+                "comment": "не сакцентированно внимание на I, также похоже что та же самая картинка помещена под номером 9 на стр. 25 как пример ошибки",
+                "number": "17",
+                "rarity": "",
+                "refID": "1aa743e6-9c1b-11e5-af42-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "Источник": "из каталога Узденикова"
+            }
+        ],
+        "avers": "императорская корона",
+        "comment": "У Ильина присутствует описание такой же монеты, но с аверсом с императорскими коронами без крестов (разновидность 6, 15 рублей). Я предположил что речь идет про центральную императорскую и боковые трехзубые т.к. именно эта разновидность широко известна и много где опубликована",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1aa743e6-9c1b-11e5-af42-84a6c83e1b73",
+        "mint": "",
+        "mintmark": "I после даты",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами; точки между ВРП",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1718"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "3653",
+                "rarity": "R",
+                "refID": "1aa8a3a2-9c1b-11e5-823a-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "Форма корон не видна,но можно предположить что монета одноштемпельна номеру 32",
+                "number": "т. 95 ил. 43",
+                "rarity": "",
+                "refID": "1aa8a3a2-9c1b-11e5-823a-84a6c83e1b73",
+                "srid": "ВКГМ"
+            },
+            {
+                "comment": "",
+                "number": "205.3",
+                "rarity": "",
+                "refID": "1aa8a3a2-9c1b-11e5-823a-84a6c83e1b73",
+                "srid": "Волмар"
+            },
+            {
+                "comment": "короны обозначены как императорские, связано это скорее всего с тем что на известной Ильину монете (см. ВКГМ) короны не были видны",
+                "number": "6",
+                "rarity": "15р",
+                "refID": "1aa8a3a2-9c1b-11e5-823a-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.750",
+                "rarity": "",
+                "refID": "1aa8a3a2-9c1b-11e5-823a-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "не сакцентированно внимание на I",
+                "number": "16",
+                "rarity": "",
+                "refID": "1aa8a3a2-9c1b-11e5-823a-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "http://coins.su/forum/index.php?showtopic=34412&page=4#entry453903"
+            }
+        ],
+        "avers": "корона о 3 зубцах",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1aa8a3a2-9c1b-11e5-823a-84a6c83e1b73",
+        "mint": "",
+        "mintmark": "I после даты",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами; точки между ВРП",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1718"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "3237",
+                "rarity": "R",
+                "refID": "1aa2131e-9c1b-11e5-afbd-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "",
+                "number": "т. 95 ил. 28",
+                "rarity": "",
+                "refID": "1aa2131e-9c1b-11e5-afbd-84a6c83e1b73",
+                "srid": "ВКГМ"
+            },
+            {
+                "comment": "",
+                "number": "205.18",
+                "rarity": "",
+                "refID": "1aa2131e-9c1b-11e5-afbd-84a6c83e1b73",
+                "srid": "Волмар"
+            },
+            {
+                "comment": "",
+                "number": "5",
+                "rarity": "1р",
+                "refID": "1aa2131e-9c1b-11e5-afbd-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.400",
+                "rarity": "",
+                "refID": "1aa2131e-9c1b-11e5-afbd-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": "9",
+                "rarity": "",
+                "refID": "1aa2131e-9c1b-11e5-afbd-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "???"
+            }
+        ],
+        "avers": "",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1aa2131e-9c1b-11e5-afbd-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; под годом 3 точки",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1718"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "1718б",
+                "rarity": "РР",
+                "refID": "1a9b55d0-9c1b-11e5-be54-84a6c83e1b73",
+                "srid": "Адрианов-Медь"
+            },
+            {
+                "comment": "",
+                "number": "3240",
+                "rarity": "R2",
+                "refID": "1a9b55d0-9c1b-11e5-be54-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "",
+                "number": "т. 95 ил. 30",
+                "rarity": "",
+                "refID": "1a9b55d0-9c1b-11e5-be54-84a6c83e1b73",
+                "srid": "ВКГМ"
+            },
+            {
+                "comment": "",
+                "number": "205.4",
+                "rarity": "",
+                "refID": "1a9b55d0-9c1b-11e5-be54-84a6c83e1b73",
+                "srid": "Волмар"
+            },
+            {
+                "comment": "",
+                "number": "6",
+                "rarity": "10 рублей",
+                "refID": "1a9b55d0-9c1b-11e5-be54-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.150",
+                "rarity": "",
+                "refID": "1a9b55d0-9c1b-11e5-be54-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": "2405",
+                "rarity": "черта",
+                "refID": "1a9b55d0-9c1b-11e5-be54-84a6c83e1b73",
+                "srid": "Уздеников"
+            },
+            {
+                "comment": "",
+                "number": "11",
+                "rarity": "",
+                "refID": "1a9b55d0-9c1b-11e5-be54-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "ВКГМ"
+            }
+        ],
+        "avers": "",
+        "comment": "нужна хорошая картинка, все по сути отсылают к корпусу",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a9b55d0-9c1b-11e5-be54-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами;цифры года расставлены; без короны сверху",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "Спорная разновидность",
+        "year": "1718"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "1718б",
+                "rarity": "РР",
+                "refID": "1a9a445e-9c1b-11e5-a95b-84a6c83e1b73",
+                "srid": "Адрианов-Медь"
+            },
+            {
+                "comment": "",
+                "number": "3239",
+                "rarity": "R2",
+                "refID": "1a9a445e-9c1b-11e5-a95b-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "",
+                "number": "т. 95 ил. 31",
+                "rarity": "",
+                "refID": "1a9a445e-9c1b-11e5-a95b-84a6c83e1b73",
+                "srid": "ВКГМ"
+            },
+            {
+                "comment": "",
+                "number": "205.4",
+                "rarity": "",
+                "refID": "1a9a445e-9c1b-11e5-a95b-84a6c83e1b73",
+                "srid": "Волмар"
+            },
+            {
+                "comment": "",
+                "number": "7",
+                "rarity": "10 рублей",
+                "refID": "1a9a445e-9c1b-11e5-a95b-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.100",
+                "rarity": "",
+                "refID": "1a9a445e-9c1b-11e5-a95b-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": "2405",
+                "rarity": "черта",
+                "refID": "1a9a445e-9c1b-11e5-a95b-84a6c83e1b73",
+                "srid": "Уздеников"
+            },
+            {
+                "comment": "",
+                "number": "10",
+                "rarity": "",
+                "refID": "1a9a445e-9c1b-11e5-a95b-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "Источник": "Baldwin auction 65 lot 1960",
+                "Примечание": "эта же монета проходила на \"Dmitry Markov \"Coins & Medals\"\" # 38\n ( 07 января 2016), лот 2061",
+                "описание": "именно на эту монету ведет ссылка из Базового конроса"
+            }
+        ],
+        "avers": "",
+        "comment": "очень похоже на фальшак",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a9a445e-9c1b-11e5-a95b-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами;цифры года сближены; без короны сверху",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "Спорная разновидность",
+        "year": "1718"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "2",
+                "rarity": "3 рубля",
+                "refID": "{7b82b00a-482d-4baf-b518-455c8f352a7c}",
+                "srid": "Ильин"
+            }
+        ],
+        "avers": " короны контурные",
+        "comment": "Саму монету не видел, скомбинировал описание из двух похожих по Ильину",
+        "currCoinId": "",
+        "edge": "",
+        "id": "{7b82b00a-482d-4baf-b518-455c8f352a7c}",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "реже",
+        "revers": "год буквами; над годом титло",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "добавлена по текстовому описанию",
+        "year": "1718"
+    },
+    {
+        "avers": " короны контурные; держава в правой лапе",
+        "comment": "Саму монету не видел, скомбинировал описание из двух похожих по Ильину",
+        "currCoinId": "",
+        "edge": "",
+        "id": "{c28c8889-58d0-4265-8691-d9dea5ed25fd}",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "реже",
+        "revers": "год буквами; над годом титло",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "добавлена по текстовому описанию",
+        "year": "1718"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "т. 95 ил 24-27, 29",
+                "rarity": "картинки в электронной версии не позволяют разобрать чем именно там все отличается",
+                "refID": "1aa4ac1e-9c1b-11e5-b622-84a6c83e1b73",
+                "srid": "ВКГМ"
+            },
+            {
+                "comment": "",
+                "number": "4",
+                "rarity": "",
+                "refID": "1aa4ac1e-9c1b-11e5-b622-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.500",
+                "rarity": "",
+                "refID": "1aa4ac1e-9c1b-11e5-b622-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": "4",
+                "rarity": "",
+                "refID": "1aa4ac1e-9c1b-11e5-b622-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg"
+            }
+        ],
+        "avers": "императорская корона",
+        "comment": "",
+        "currCoinId": "{26ff229d-a737-4127-8399-4afecd50ef97}",
+        "edge": "",
+        "id": "1aa4ac1e-9c1b-11e5-b622-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1718"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "т. 95 ил. 22",
+                "rarity": "",
+                "refID": "1aa4d338-9c1b-11e5-9142-84a6c83e1b73",
+                "srid": "ВКГМ"
+            },
+            {
+                "comment": "",
+                "number": "1",
+                "rarity": "",
+                "refID": "1aa4d338-9c1b-11e5-9142-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.550",
+                "rarity": "",
+                "refID": "1aa4d338-9c1b-11e5-9142-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": "1",
+                "rarity": "",
+                "refID": "1aa4d338-9c1b-11e5-9142-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg"
+            }
+        ],
+        "avers": "орел образца 1718 года (хвост елкой); короны контурные",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1aa4d338-9c1b-11e5-9142-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1718"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "3231",
+                "rarity": "R1",
+                "refID": "1a9d04b4-9c1b-11e5-88f4-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "",
+                "number": "т. 95 ил. 23",
+                "rarity": "",
+                "refID": "1a9d04b4-9c1b-11e5-88f4-84a6c83e1b73",
+                "srid": "ВКГМ"
+            },
+            {
+                "comment": "",
+                "number": "205.17",
+                "rarity": "",
+                "refID": "1a9d04b4-9c1b-11e5-88f4-84a6c83e1b73",
+                "srid": "Волмар"
+            },
+            {
+                "comment": "",
+                "number": "3",
+                "rarity": "3р",
+                "refID": "1a9d04b4-9c1b-11e5-88f4-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.300",
+                "rarity": "",
+                "refID": "1a9d04b4-9c1b-11e5-88f4-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": "3",
+                "rarity": "",
+                "refID": "1a9d04b4-9c1b-11e5-88f4-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "???"
+            }
+        ],
+        "avers": "орел образца 1718 года (хвост елкой); короны контурные; держава в правой лапе",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a9d04b4-9c1b-11e5-88f4-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "реже",
+        "revers": "год буквами",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1718"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "3230",
+                "rarity": "R1",
+                "refID": "1a9f2af0-9c1b-11e5-8aad-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "",
+                "number": "205.19",
+                "rarity": "",
+                "refID": "1a9f2af0-9c1b-11e5-8aad-84a6c83e1b73",
+                "srid": "Волмар"
+            },
+            {
+                "comment": "Не правильная ссылка - у Ильина нет сочетания императорская корона + титло",
+                "number": "2",
+                "rarity": "3р",
+                "refID": "1a9f2af0-9c1b-11e5-8aad-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.200",
+                "rarity": "",
+                "refID": "1a9f2af0-9c1b-11e5-8aad-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": "2",
+                "rarity": "",
+                "refID": "1a9f2af0-9c1b-11e5-8aad-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "ревьюдетектор"
+            },
+            {
+                "file": "fb69080258100a503989013842b55b96.jpg",
+                "source": "coins.su"
+            }
+        ],
+        "avers": "орел образца 1718 года со штриховкой на груди и языками; короны императорские без крестов",
+        "comment": "вторая монета с точками между врп, на мой взгляд, слишком мелкое отличие для отдельной разновидности",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a9f2af0-9c1b-11e5-8aad-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "8,5",
+        "revers": "год буквами; над годом титло",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1718"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "МиМ"
+            }
+        ],
+        "avers": "Орел 1719 года  с остями; над головами орла короны о 3 зубцах; центральная корона императорская",
+        "comment": "",
+        "currCoinId": "{f2f7b490-1258-4d54-bc1c-f41328ce8a14}",
+        "edge": "",
+        "id": "1af52090-9c1b-11e5-91f9-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами;  в ВРП корона",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "coins.su"
+            }
+        ],
+        "avers": "Орел 1719 года; над головами орла короны о 3 зубцах; центральная корона императорская",
+        "comment": "",
+        "currCoinId": "{6ffaacec-4d6a-4121-83e6-ae9eb3cae897}",
+        "edge": "",
+        "id": "1af2d63e-9c1b-11e5-b7d9-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами;  в ВРП короны нет",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "coins.su"
+            },
+            {
+                "file": "f1a9846d5ee52a9ab7bb6e4568119528.jpg",
+                "source": "Волмар"
+            }
+        ],
+        "avers": "Орел 1719 года; над головами орла короны о 3 зубцах; центральная корона императорская",
+        "comment": "Имеются различные штемпеля с украшениями, подозреваю, что есть даже как с украшениями по обе стороны ВРП \\ года, так и только с одной. Выделять смысла не вижу",
+        "currCoinId": "{e497f6d1-dc2c-4694-842d-bad78640c15b}",
+        "edge": "",
+        "id": "1aee8fca-9c1b-11e5-9b9a-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами; в ВРП нет короны; ВРП между украшениями; украшение слева от года",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "Источник": "http://coins.su/forum/index.php?showtopic=34412&page=50#entry1946826"
+            }
+        ],
+        "avers": "матричный орел образца 1720 года; центральная корона трехзубая; короны над головами контурные",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "{b27283f8-e053-4772-8f3b-ad93dceb19a0}",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами (матричный штемпель 1719-1720)",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "m-dv.ru"
+            }
+        ],
+        "avers": "орел образца 1718 года, хорошо проработанный с остями в крыльях; короны о 3 зубца",
+        "comment": "",
+        "currCoinId": "{936df6f3-ebff-4b27-a5ab-ee8e75d6d7eb}",
+        "edge": "",
+        "id": "1af0b2f8-9c1b-11e5-a2f6-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами;  в ВРП корона",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "drdy http://coins.su/forum/index.php?showtopic=34412&page=2#entry394791"
+            }
+        ],
+        "avers": "",
+        "comment": "<font color=\"red\">описать!!!</font> ",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1aec456c-9c1b-11e5-b4aa-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "т. 105 ил. 7, 23",
+                "rarity": "",
+                "refID": "{14544f3a-0fa0-401f-9484-999d559abb74}",
+                "srid": "ВКГМ"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "Источник": "ВКГМ"
+            }
+        ],
+        "avers": "Специфический орел (точное описание затруднительно из-за множества выкрошек); в хвосте одно перо",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "{14544f3a-0fa0-401f-9484-999d559abb74}",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": 1,
+        "revers": "год буквами; символы набиты пуансонами окрулой формы",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "т. 105 ил. 34",
+                "rarity": "",
+                "refID": "{243db57a-0049-4aed-b759-a0014e6cfb6b}",
+                "srid": "ВКГМ"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "Источник": "ВКГМ"
+            },
+            {
+                "file": "1.jpg",
+                "Источник": "http://newauction.ru/offer/vrp_polushka_1719_nd-i23883335944249.html"
+            }
+        ],
+        "avers": "игольчатый орел (мелкие тонкие перья в крыльях);  короны императорские; хвост елкой",
+        "comment": "нет полной уверености является ли данный орел действительно игольчатым",
+        "currCoinId": "",
+        "edge": "",
+        "id": "{243db57a-0049-4aed-b759-a0014e6cfb6b}",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы набиты пуансонами окрулой формы",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "т. 105 ил 21, 27, 34",
+                "rarity": "",
+                "refID": "1ab6e5c8-9c1b-11e5-be29-84a6c83e1b73",
+                "srid": "ВКГМ"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg"
+            }
+        ],
+        "avers": "игольчатый орел (мелкие тонкие перья в крыльях);  короны императорские; хвост из одного узкого пера",
+        "comment": "",
+        "currCoinId": "{e00baa06-063b-4dc1-bf0e-2fe175627293}",
+        "edge": "",
+        "id": "1ab6e5c8-9c1b-11e5-be29-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы набиты пуансонами окрулой формы",
+        "status": "Коллекция, нужна замена",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "Rcoins"
+            }
+        ],
+        "avers": "игольчатый орел (мелкие тонкие перья в крыльях);  короны императорские; хвост из трех перьев",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1ab70cf6-9c1b-11e5-873b-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы набиты пуансонами окрулой формы",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "т. 105 ил. 21",
+                "rarity": "",
+                "refID": "{1fb398d8-c2f5-49ba-b524-a337530c1ae7}",
+                "srid": "ВКГМ"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "Источник": "ВКГМ"
+            }
+        ],
+        "avers": "игольчатый орел (мелкие тонкие перья в крыльях); короны императорские; хвост из одного узкого пера",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "{1fb398d8-c2f5-49ba-b524-a337530c1ae7}",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы набиты пуансонами окрулой формы",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": " 9 и 16 вообще, по-моему, одноштемпельные",
+                "number": "т. 105 ил 9, 16 и 20",
+                "rarity": "",
+                "refID": "1ab58d36-9c1b-11e5-9e8f-84a6c83e1b73",
+                "srid": "ВКГМ"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "coins.su"
+            }
+        ],
+        "avers": "игольчатый орел (мелкие тонкие перья в крыльях); короны императорские; хвост из одного узкого пера",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1ab58d36-9c1b-11e5-9e8f-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы угловатые (вырезаны в ручную?)",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "моя картинка"
+            }
+        ],
+        "avers": "игольчатый орел (мелкие тонкие перья в крыльях); крылья с большой детализацией (подчеркнутый контур сверху, отдельные выступающие перья );  короны императорские с деталями; хвост из множества изгибающися перьев",
+        "comment": "",
+        "currCoinId": "{431bd0e3-83ba-48da-b611-03d10182f615}",
+        "edge": "",
+        "id": "1ab958ba-9c1b-11e5-8b3b-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы набиты пуансонами окрулой формы",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "не разбиваются по  коронам",
+                "number": "233.1100",
+                "rarity": "",
+                "refID": "1aea9774-9c1b-11e5-99ca-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "http://coins.su/forum/index.php?showtopic=34412&page=15#entry1136104"
+            }
+        ],
+        "avers": "короны о 3 зубцах",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1aea9774-9c1b-11e5-99ca-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; над годом титло;",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "фото продавца с молотка"
+            }
+        ],
+        "avers": "орел набитый пуансоном пера; большая корона с пустыми полушариями («череп»); маленькие короны императорские",
+        "comment": "",
+        "currCoinId": "{8a5bdb02-3edd-4587-a1b1-9612cd55c191}",
+        "edge": "",
+        "id": "1abab89c-9c1b-11e5-8d40-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы угловатые (вырезаны в ручную?)",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "фото продавца с молотка"
+            }
+        ],
+        "avers": "орел набитый пуансоном пера; большая корона с пустыми полушариями («череп»); маленькие короны о трех зубцах контурные",
+        "comment": "",
+        "currCoinId": "{c5888b6a-4d49-445f-bbf9-24b5aa6d00d9}",
+        "edge": "",
+        "id": "1abc6688-9c1b-11e5-ad1d-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы набиты пуансонами окрулой формы",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "т. 105 ил.19, 24",
+                "rarity": "",
+                "refID": "1abe1488-9c1b-11e5-ac18-84a6c83e1b73",
+                "srid": "ВКГМ"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "из книги Рзаев В. П. \"Медная монета Петра I\""
+            }
+        ],
+        "avers": "орел набитый пуансоном пера; короны императорские; античный хвост",
+        "comment": "",
+        "currCoinId": "{6cfaccd9-59fe-4a82-9697-d93908751511}",
+        "edge": "",
+        "id": "1abe1488-9c1b-11e5-ac18-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы набиты пуансонами окрулой формы",
+        "status": "Коллекция, нужна замена",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "т. 105 ил. 28",
+                "rarity": "",
+                "refID": "1ac037c2-9c1b-11e5-89d6-84a6c83e1b73",
+                "srid": "ВКГМ"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "Sincona AG "
+            }
+        ],
+        "avers": "орел набитый пуансоном пера; короны императорские; античный хвост",
+        "comment": "",
+        "currCoinId": "{8ce8bcae-8dba-4447-9839-758482494f4e}",
+        "edge": "",
+        "id": "1ac037c2-9c1b-11e5-89d6-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы угловатые (вырезаны в ручную?)",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "Аукцион.СПБ 23 апреля 2014 года "
+            }
+        ],
+        "avers": "орел набитый пуансоном пера; короны императорские; хвост в виде елки",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1ac8ec30-9c1b-11e5-86d1-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы набиты пуансонами окрулой формы",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "m-dv.ru"
+            },
+            {
+                "file": "c1ecd5466c47e8b92d397c090fda150a.jpg",
+                "source": "m-dv.ru"
+            }
+        ],
+        "avers": "орел набитый пуансоном пера; короны императорские; хвост треугольный",
+        "comment": "тот факт что вместо тела орла использовано перо разновидностью не является — орел скорее всего ремонтный, если внимательно рассмотреть то видно что у всех угловатых орлов тело набито пуансоном перьев иногда несколькими ударами, а иногда и одним и потом доведено до нужной формы, а у этого еще и крылья как бы стерты. Также у меня нет уверености что этот хвост и \"утиная лапка\" не одно и то же в разной степени износа",
+        "currCoinId": "{270d9897-88f8-4a5a-851e-35caabb9814a}",
+        "edge": "",
+        "id": "1ac28202-9c1b-11e5-bea3-84a6c83e1b73",
+        "mint": "Санкт-Петербургский монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы набиты пуансонами окрулой формы",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "т. 105 ил. 32",
+                "rarity": "",
+                "refID": "1ac45776-9c1b-11e5-adf5-84a6c83e1b73",
+                "srid": "ВКГМ"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "m-dv.ru"
+            },
+            {
+                "file": "1e7b698ec729d600caf4f91a582a22b9.jpg",
+                "source": "coins.su",
+                "Описание:": "примеры \"утиной лапы\""
+            }
+        ],
+        "avers": "орел набитый пуансоном пера; короны императорские; хвост треугольный",
+        "comment": "есть подозрение что хвост «утиной лапой» явялется развалившимся хвостом",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1ac45776-9c1b-11e5-adf5-84a6c83e1b73",
+        "mint": "Санкт-Петербургский монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы угловатые (вырезаны в ручную?)",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "coins.su"
+            },
+            {
+                "file": "219d8717e495ec1b98975adc2d7f2df8.jpg",
+                "source": "фото продавца с молотка"
+            }
+        ],
+        "avers": "орел небольшого размера, контурный с грудью отдельными стежками",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1ad35110-9c1b-11e5-9596-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы набиты пуансонами окрулой формы",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "coins.su"
+            }
+        ],
+        "avers": "орел небольшого размера, контурный с грудью отдельными стежками",
+        "comment": "",
+        "currCoinId": "{e0144c47-9ac9-4247-8a6a-e8ff8818d0b8}",
+        "edge": "",
+        "id": "1ad1253a-9c1b-11e5-a4e6-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы угловатые (вырезаны в ручную?)",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "coins.su"
+            }
+        ],
+        "avers": "орел образца 1718 года (хвост елкой); большая корона императорская; малые короны контурные",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1ade877a-9c1b-11e5-a361-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы набиты пуансонами окрулой формы",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "ABRA.CAD.ABRA (ВРП на ревью)"
+            }
+        ],
+        "avers": "орел образца 1718 года (хвост елкой); большая корона специфической формы",
+        "comment": "крайне не уверен с короной на реверсе, да и на аверсе возможны варианты, потому пока на заметку",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1adb79b8-9c1b-11e5-b8a6-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы набиты пуансонами окрулой формы; сверху корона (???)",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "На заметку",
+        "year": "1719"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "т 105 ил. 17",
+                "rarity": "",
+                "refID": "1ae89b4a-9c1b-11e5-a688-84a6c83e1b73",
+                "srid": "ВКГМ"
+            },
+            {
+                "comment": "не разбиваются по  коронам",
+                "number": "233.1100",
+                "rarity": "",
+                "refID": "1ae89b4a-9c1b-11e5-a688-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "ABRA.CAD.ABRA (ВРП на ревью)"
+            }
+        ],
+        "avers": "орел образца 1718 года (хвост елкой); короны императорские",
+        "comment": "",
+        "currCoinId": "{d9eab5ba-33bb-4b2b-94c5-210c4133427c}",
+        "edge": "",
+        "id": "1ae89b4a-9c1b-11e5-a688-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; над годом титло;",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "т. 105 ил. 18",
+                "rarity": "",
+                "refID": "1ae406ae-9c1b-11e5-a012-84a6c83e1b73",
+                "srid": "ВКГМ"
+            },
+            {
+                "comment": "",
+                "number": "233.1150",
+                "rarity": "",
+                "refID": "1ae406ae-9c1b-11e5-a012-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "coins.su"
+            }
+        ],
+        "avers": "орел образца 1718 года (хвост елкой); короны императорские",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1ae406ae-9c1b-11e5-a012-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; над годом титло; под годом 2 точки",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "ВРП полукругом",
+                "number": "т. 105 ил. 25",
+                "rarity": "",
+                "refID": "1ae16e2e-9c1b-11e5-88a5-84a6c83e1b73",
+                "srid": "ВКГМ"
+            },
+            {
+                "comment": "ВРП в ряд",
+                "number": "т. 105 ил. 31",
+                "rarity": "",
+                "refID": "1ae16e2e-9c1b-11e5-88a5-84a6c83e1b73",
+                "srid": "ВКГМ"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "?"
+            }
+        ],
+        "avers": "орел образца 1718 года (хвост елкой); короны императорские",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1ae16e2e-9c1b-11e5-88a5-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы набиты пуансонами окрулой формы",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "т. 105 ил. 33",
+                "rarity": "",
+                "refID": "{07482d42-9eea-4c9f-8682-fcb01231a165}",
+                "srid": "ВКГМ"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg"
+            }
+        ],
+        "avers": "орел с крупными перьеми в крыльях",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "{07482d42-9eea-4c9f-8682-fcb01231a165}",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы набиты пуансонами окрулой формы",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "т. 105 ил.13-14",
+                "rarity": "",
+                "refID": "1acd0c68-9c1b-11e5-b838-84a6c83e1b73",
+                "srid": "ВКГМ"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "см"
+            }
+        ],
+        "avers": "орел с крупными перьеми в крыльях",
+        "comment": "",
+        "currCoinId": "{397be828-8d51-460e-9518-5a2490369cc8}",
+        "edge": "",
+        "id": "1acd0c68-9c1b-11e5-b838-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы угловатые (вырезаны в ручную?)",
+        "status": "Коллекция, нужна замена",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "Источник": "http://www.staraya-moneta.ru/forum/f%D0%BErum63/t%D0%BEpic110869/"
+            }
+        ],
+        "avers": "орел с крупными перьеми в крыльях, центральная корона императорская контурная",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "{94f31fc6-0ffc-4cb6-b32b-fab33e5a4e6a}",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": 2,
+        "revers": "год буквами; символы угловатые (вырезаны в ручную?)",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "ABRA.CAD.ABRA (ВРП на ревью)"
+            }
+        ],
+        "avers": "орел с крупными перьеми в крыльях; корона необычной формы («трилистник», скорее всего задействовано какое-то украшение)",
+        "comment": "пока видел всего одну монету",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1acb3758-9c1b-11e5-8677-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "очень редкая",
+        "revers": "год буквами; символы угловатые (вырезаны в ручную?)",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "?"
+            }
+        ],
+        "avers": "орел с крупными перьями на груди в виде пластин",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1ad78170-9c1b-11e5-a3b4-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы набиты пуансонами окрулой формы",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "т. 105 ил. 29",
+                "rarity": "",
+                "refID": "1ad8e134-9c1b-11e5-9927-84a6c83e1b73",
+                "srid": "ВКГМ"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "ревьюдетектор"
+            }
+        ],
+        "avers": "орел с крупными перьями на груди в виде пластин",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1ad8e134-9c1b-11e5-9927-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы набиты пуансонами специфической формы",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "coins.su"
+            }
+        ],
+        "avers": "орел с крупными перьями на груди в виде пластин",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1ada40f6-9c1b-11e5-a4d9-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы угловатые (вырезаны в ручную?)",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "coins.su"
+            }
+        ],
+        "avers": "орел с мелкими изогнутыми крыльях",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1acf313a-9c1b-11e5-98ce-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; символы набиты пуансонами окрулой формы",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "т. 105 ил. 27",
+                "rarity": "",
+                "refID": "1af65938-9c1b-11e5-a7b3-84a6c83e1b73",
+                "srid": "ВКГМ"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": ""
+            }
+        ],
+        "avers": "у орла хвост с одним пером; центральная корона императорская",
+        "comment": "Монета с таким же описанием в 1720 году имеет крайне похожий аверс, возможно, одноштемпельный",
+        "currCoinId": "{d341ab85-90df-4d99-808b-350ebb873ae9}",
+        "edge": "",
+        "id": "1af65938-9c1b-11e5-a7b3-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "Источник": "m-dv.ru"
+            }
+        ],
+        "avers": "матричный орел образца 1720 -1721 годов",
+        "comment": "",
+        "currCoinId": "{8d2bd6a5-d555-45d9-a53c-6a425cc9816d}",
+        "edge": "",
+        "id": "{93659f50-a8cf-4381-b419-9028b0272009}",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "1720г",
+                "rarity": "4000",
+                "refID": "1a66366e-9c1b-11e5-bbf3-84a6c83e1b73",
+                "srid": "Адрианов-Медь"
+            },
+            {
+                "comment": "Я не могу разобрать по его картинкам в чем разница",
+                "number": "3700 или 3697",
+                "rarity": "R1",
+                "refID": "1a66366e-9c1b-11e5-bbf3-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "",
+                "number": "8",
+                "rarity": "",
+                "refID": "1a66366e-9c1b-11e5-bbf3-84a6c83e1b73",
+                "srid": "Волмар"
+            },
+            {
+                "comment": "",
+                "number": "6",
+                "rarity": "1р",
+                "refID": "1a66366e-9c1b-11e5-bbf3-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "6",
+                "rarity": "",
+                "refID": "1a66366e-9c1b-11e5-bbf3-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "m-dv.ru"
+            }
+        ],
+        "avers": "матричный орел образца 1720 -1721 годов",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a66366e-9c1b-11e5-bbf3-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами; 7 зеркальная",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "Источник": "http://coins.su/forum/index.php?showtopic=183226#entry2028981"
+            },
+            {
+                "file": "1720.jpg",
+                "Источник": "http://coins.su/forum/index.php?showtopic=188065#entry2079076"
+            }
+        ],
+        "avers": "матричный орел образца 1720 года",
+        "comment": "Из-за плохой сохранности не понятно что с коронами",
+        "currCoinId": "",
+        "edge": "",
+        "id": "{2a8639e3-0db7-4cb9-911f-aed570427dcc}",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "редко",
+        "revers": "год цифрами; 7 зеркальная",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "На заметку",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "Mihail http://coins.su/forum/index.php?showtopic=34412&page=1#entry380905"
+            }
+        ],
+        "avers": "матричный орел образца 1720 года; центральная корона открытая (форма не понятна — не влезла на монету); короны над головами контурные",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a498ed8-9c1b-11e5-a588-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год 17К (матричный штемпель 1719-1720)",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "m-dv.ru"
+            }
+        ],
+        "avers": "матричный орел образца 1720 года; центральная корона с крестом; короны над головами трехзубые",
+        "comment": "что-то в данной монете настораживает, вроде и выполнена на приличном уровне, но есть куча мелочей (аверс - никогда не видел креста на коронах на врп , реверс - не один из двух матричных что есть в 1720)",
+        "currCoinId": "",
+        "edge": "Сетка",
+        "id": "1a3b3e5c-9c1b-11e5-891d-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "Фальшак (подделка для обращения); краденый штемпель (?)",
+        "year": "1720"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": " 1720е",
+                "rarity": "Р",
+                "refID": "1a447380-9c1b-11e5-92d2-84a6c83e1b73",
+                "srid": "Адрианов-Медь"
+            },
+            {
+                "comment": "",
+                "number": "3701",
+                "rarity": "R1",
+                "refID": "1a447380-9c1b-11e5-92d2-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "",
+                "number": "13",
+                "rarity": "1р",
+                "refID": "1a447380-9c1b-11e5-92d2-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.2650",
+                "rarity": "",
+                "refID": "1a447380-9c1b-11e5-92d2-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": " 2426",
+                "rarity": "черта",
+                "refID": "1a447380-9c1b-11e5-92d2-84a6c83e1b73",
+                "srid": "Уздеников"
+            },
+            {
+                "comment": "",
+                "number": "13",
+                "rarity": "",
+                "refID": "1a447380-9c1b-11e5-92d2-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "моя картинка"
+            }
+        ],
+        "avers": "матричный орел образца 1720 года; центральная корона трехзубая высокая; короны над головами контурные",
+        "comment": "реверс у полушек с комбинированной датой не одноштемпельный",
+        "currCoinId": "{78f1bb55-a83d-43b4-9208-6d2cc6f0852c}",
+        "edge": "",
+        "id": "1a447380-9c1b-11e5-92d2-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год 17К (матричный штемпель 1719-1720)",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "7",
+                "rarity": "",
+                "refID": "1a415a4c-9c1b-11e5-bce1-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "7",
+                "rarity": "",
+                "refID": "1a415a4c-9c1b-11e5-bce1-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "molotok.ru"
+            }
+        ],
+        "avers": "матричный орел образца 1720 года; центральная корона трехзубая высокая; короны над головами трехзубые; над хвостом 2 пера",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a415a4c-9c1b-11e5-bce1-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами (матричный штемпель 1719-1720)",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "По-0271-01",
+                "rarity": "Р",
+                "refID": "1a5e83d8-9c1b-11e5-8bda-84a6c83e1b73",
+                "srid": "Адрианов Фальшивкые монеты"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "Ярослав Адрианов http://coins.su/forum/index.php?showtopic=34412&page=1#entry382572"
+            }
+        ],
+        "avers": "матричный орел образца 1720 года; центральная корона трехзубая с усиками; короны над головами трехзубые",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a5e83d8-9c1b-11e5-8bda-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "редкая",
+        "revers": "год цифрами, набит зеркально",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "Нет уверености монетный двор или фальшивка",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "http://coins.su/forum/index.php?showtopic=34412&page=3#entry434500"
+            },
+            {
+                "file": "26ec921fdaf77057d77953c7eb7de71f.jpg",
+                "source": "http://vk.com/photo-14236019_283021365"
+            }
+        ],
+        "avers": "матричный орел образца 1720 года; центральная корона трехзубая;  короны над головами контурные",
+        "comment": "На первый взгляд кажется что утверждать про матричность реверса странно, однако если присмотреться, то можно замнетить что это все тот же реверс со странной К, пряшущими вертикальными гастами, А и Л специфической формы.",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a5064a6-9c1b-11e5-8469-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами (матричный штемпель 1719-1720); 2 зеркальная; РВП",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "Источник": "http://coins.su/forum/index.php?showtopic=106762#entry1098803"
+            }
+        ],
+        "avers": "матричный орел образца 1720 года; центральная корона трехзубая;  короны над головами трехзубые",
+        "comment": "На первый взгляд кажется что утверждать про матричность реверса странно, однако если присмотреться, то можно замнетить что это все тот же реверс со странной К, пряшущими вертикальными гастами, А и Л специфической формы.",
+        "currCoinId": "",
+        "edge": "",
+        "id": "{f62f0449-15ba-43fd-ab49-729e9cfe2b2d}",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами (матричный штемпель 1719-1720); 2 зеркальная; РВП",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "Источник": "http://coins.su/forum/index.php?showtopic=180204"
+            }
+        ],
+        "avers": "матричный орел образца 1720 года; центральная корона трехзубая;  над головами нет корон",
+        "comment": "На первый взгляд кажется что утверждать про матричность реверса странно, однако если присмотреться, то можно замнетить что это все тот же реверс со странной К, пряшущими вертикальными гастами, А и Л специфической формы.",
+        "currCoinId": "",
+        "edge": "",
+        "id": "{9b2c6d46-cbf4-4807-9133-b8ea2adc07b1}",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами (матричный штемпель 1719-1720); 2 зеркальная; РВП",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": " 1720е",
+                "rarity": "Р",
+                "refID": "1a476ba8-9c1b-11e5-b3e0-84a6c83e1b73",
+                "srid": "Адрианов-Медь"
+            },
+            {
+                "comment": "",
+                "number": "3695",
+                "rarity": "R1",
+                "refID": "1a476ba8-9c1b-11e5-b3e0-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "",
+                "number": "12",
+                "rarity": "1р",
+                "refID": "1a476ba8-9c1b-11e5-b3e0-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.2600",
+                "rarity": "",
+                "refID": "1a476ba8-9c1b-11e5-b3e0-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": " 2426",
+                "rarity": "черта",
+                "refID": "1a476ba8-9c1b-11e5-b3e0-84a6c83e1b73",
+                "srid": "Уздеников"
+            },
+            {
+                "comment": "",
+                "number": "12",
+                "rarity": "",
+                "refID": "1a476ba8-9c1b-11e5-b3e0-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "?"
+            }
+        ],
+        "avers": "матричный орел образца 1720 года; центральная корона трехзубая; короны над головами контурные",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a476ba8-9c1b-11e5-b3e0-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год 17К (матричный штемпель 1719-1720)",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "m-dv.ru"
+            }
+        ],
+        "avers": "матричный орел образца 1720 года; центральная корона трехзубая; короны над головами контурные",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a39c764-9c1b-11e5-a3fa-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами (матричный штемпель 1719-1720)",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "m-dv.ru"
+            },
+            {
+                "file": "4a756c21dc7188a3a46a39fd37582725.jpg",
+                "source": "m-dv.ru"
+            },
+            {
+                "file": "d378c6adb1e3bf60f915174367e2ef94.jpg",
+                "source": "m-dv.ru"
+            }
+        ],
+        "avers": "матричный орел образца 1720 года; центральная корона трехзубая; короны над головами трехзубые",
+        "comment": "не вполне понятно что же там за короны над головами, ясно только что не контурные",
+        "currCoinId": "{de8f6051-ea4d-4efe-8639-96432f2f131d}",
+        "edge": "",
+        "id": "1a3d61ba-9c1b-11e5-93f1-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами (матричный штемпель 1719-1720)",
+        "status": "Коллекция, нужна замена",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "1720д",
+                "rarity": "4000",
+                "refID": "1a4b8aee-9c1b-11e5-bb47-84a6c83e1b73",
+                "srid": "Адрианов-Медь"
+            },
+            {
+                "comment": "похоже, на картинке не тот реверс",
+                "number": "3697",
+                "rarity": "R1",
+                "refID": "1a4b8aee-9c1b-11e5-bb47-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "",
+                "number": "9",
+                "rarity": "",
+                "refID": "1a4b8aee-9c1b-11e5-bb47-84a6c83e1b73",
+                "srid": "Волмар"
+            },
+            {
+                "comment": "",
+                "number": "8",
+                "rarity": "1р",
+                "refID": "1a4b8aee-9c1b-11e5-bb47-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.2450",
+                "rarity": "",
+                "refID": "1a4b8aee-9c1b-11e5-bb47-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": "8",
+                "rarity": "",
+                "refID": "1a4b8aee-9c1b-11e5-bb47-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "m-dv.ru"
+            },
+            {
+                "file": "d7c380d1c3ec5a0ef803af273e886f22.jpg",
+                "source": "remember http://coins.su/forum/index.php?showtopic=34412&page=1#entry393450"
+            }
+        ],
+        "avers": "матричный орел образца 1720 года; центральная корона трехзубая; короны над головами трехзубые",
+        "comment": "короны у второй монеты контурные?",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a4b8aee-9c1b-11e5-bb47-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами (матричный штемпель 1719-1720); 2 зеркальная",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "продавец wvlad777 с молотка"
+            }
+        ],
+        "avers": "матричный орел образца 1720 года; центральная корона трехзубая; короны над головами трехзубые",
+        "comment": "монету иногда пытаются продать как 1730",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a54363a-9c1b-11e5-9c74-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами; 2 перевернута на 180 градусов",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "?"
+            }
+        ],
+        "avers": "матричный орел образца 1720 года; центральная корона трехзубая; короны над головами трехзубые; в лапе как-будто ветка",
+        "comment": "не вполне понятно что это такое - скорее всего какой-то брак",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a564cec-9c1b-11e5-932b-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами (матричный штемпель 1719-1720)",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "10",
+                "rarity": "1р",
+                "refID": "1a586f66-9c1b-11e5-8dd3-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.2550",
+                "rarity": "",
+                "refID": "1a586f66-9c1b-11e5-8dd3-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": "10",
+                "rarity": "",
+                "refID": "1a586f66-9c1b-11e5-8dd3-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "m-dv.ru"
+            }
+        ],
+        "avers": "матричный орел образца 1720 года; центральная корона трехзубая; над головами орлов нет корон",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a586f66-9c1b-11e5-8dd3-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "coins.su"
+            }
+        ],
+        "avers": "совершенно любые фальшивые орлы",
+        "comment": "реверс был украден (или взят с помойки) с МД и существует множество монет у которых с ним сочетается совершенно фантастический орел см. http://coins.su/forum/index.php?showtopic=34412&page=13#entry953896",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a37f206-9c1b-11e5-805d-84a6c83e1b73",
+        "mint": "",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами (матричный штемпель 1719-1720)",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "Фальшак (подделка для обращения); краденый штемпель",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "Источник": "coins.su"
+            },
+            {
+                "file": "fbbdd37b883bd3020b7a36d58f504b45.jpg",
+                "Источник": "coins.su",
+                "Примечание": "монета с таким же орлом присутствует в корпусе, т. 105 № 6"
+            },
+            {
+                "file": "post-1336-0-88002400-1352901711.jpg",
+                "Источник": "http://coins.su/forum/index.php?showtopic=187993&page=12"
+            }
+        ],
+        "avers": "совершенно любые фальшивые орлы",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "{5ef1739d-8946-4ca3-ad02-4e5191751881}",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": 10,
+        "revers": "год цифрами; 7 зеркальная",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "Фальшак (подделка для обращения); краденый штемпель",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "МиМ"
+            }
+        ],
+        "avers": "\"пучеглазый\" орел (поздняя разновидность угловатого); хвост елочкой",
+        "comment": "",
+        "currCoinId": "{eda9d752-4aaf-4403-94e8-028e79de8c6a}",
+        "edge": "",
+        "id": "1a838168-9c1b-11e5-968d-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; сверху корона о 4 зубца",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "m-dv.ru\n"
+            }
+        ],
+        "avers": "\"пучеглазый\" орел (поздняя разновидность угловатого); шарообразный хвост (разбитый античный?)",
+        "comment": "имеются варианты хвоста - прямой и круглой формы, выделять ли их отдельно - не знаю. Прямой вполне может быть хвостом елкой",
+        "currCoinId": "{6b984b62-cb0e-4dcf-94f4-858972e126eb}",
+        "edge": "",
+        "id": "1a7bdeb8-9c1b-11e5-998d-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "Источник": "http://coins.su/forum/index.php?showtopic=123640&page=2#entry1439441"
+            }
+        ],
+        "avers": "\"пучеглазый\" орел (поздняя разновидность угловатого); шарообразный хвост (разбитый античный?)",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "{7b60aa13-83f6-4ad3-ab08-5de0575043e0}",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "очень редкая",
+        "revers": "год буквами, над годом титло",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "?"
+            }
+        ],
+        "avers": "\"пучеглазый\" орел (поздняя разновидность угловатого); шарообразный хвост (разбитый античный?)",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a89ee1a-9c1b-11e5-a942-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; сверху корона о 4 зубца",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg"
+            }
+        ],
+        "avers": "Специфический орел (точное описание затруднительно из-за множества выкрошек); в хвосте одно перо",
+        "comment": "",
+        "currCoinId": "{3513d60e-a08b-4e96-8676-8a3489dc51b4}",
+        "edge": "",
+        "id": "{6767fde1-a0ff-4eb1-8adf-883807e7a703}",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": 1,
+        "revers": "год буквами; символы набиты пуансонами окрулой формы",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "Источник": "http://newauction.ru/offer/polushka_1720_god_v_kollekciju-i19496541487155.html"
+            }
+        ],
+        "avers": "Специфический орел (точное описание затруднительно из-за множества выкрошек); в хвосте одно перо",
+        "comment": "",
+        "currCoinId": "{3c07384a-08a1-45bd-a682-ff3febcd29ca}",
+        "edge": "",
+        "id": "{11243ad2-76ba-46a5-a465-72605c8e6625}",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": 1,
+        "revers": "год буквами; символы угловатые (частично вырезаны в ручную?)",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "ревьюдетектор"
+            }
+        ],
+        "avers": "игольчатый орел (мелкие тонкие перья в крыльях); короны императорские; хвост из одного узкого пера",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a8cbbae-9c1b-11e5-a1e1-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; сверху императорская корона",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "coins.su"
+            }
+        ],
+        "avers": "орел с крупными перьеми в крыльях; короны императорские; хвост из одного узкого пера",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a8e1094-9c1b-11e5-ac47-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами; сверху императорская корона",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "Efimok.ru ?"
+            },
+            {
+                "file": "3cf65d8413b83f1ec92eed641104e222.jpg",
+                "source": "Фото продавца Kupi99 с молотка"
+            }
+        ],
+        "avers": "у орла хвост с одним пером; центральная корона императорская",
+        "comment": "",
+        "currCoinId": "{88100277-4714-4862-8b1f-d6dde3272a48}",
+        "edge": "",
+        "id": "1a850a62-9c1b-11e5-9350-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами",
+        "status": "Коллекция, нужна замена",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "описана как 3-х зубцовые короны над головами орла и 4-х зубцовая по центру",
+                "number": "7",
+                "rarity": "",
+                "refID": "1a7eec7e-9c1b-11e5-aa65-84a6c83e1b73",
+                "srid": "Ильин"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "http://www.polushka.com"
+            },
+            {
+                "file": "b6b25489039ac50395a648cf23273788.jpg",
+                "source": "m-dv.ru"
+            }
+        ],
+        "avers": "у орла хвост с одним пером; центральная корона о 4 зубцах",
+        "comment": "",
+        "currCoinId": "{649cbb6f-dd4e-41d5-b86f-a07db1341c2d}",
+        "edge": "",
+        "id": "1a7eec7e-9c1b-11e5-aa65-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1720"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "МиМ"
+            }
+        ],
+        "avers": "",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a8f637a-9c1b-11e5-bea0-84a6c83e1b73",
+        "mint": "",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "Новодел",
+        "year": "1721"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "11 в 1720 году",
+                "rarity": "4р",
+                "refID": "1a749ec8-9c1b-11e5-80f2-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.3200",
+                "rarity": "",
+                "refID": "1a749ec8-9c1b-11e5-80f2-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": "2434",
+                "rarity": "черта с точкой",
+                "refID": "1a749ec8-9c1b-11e5-80f2-84a6c83e1b73",
+                "srid": "Уздеников"
+            },
+            {
+                "comment": "отмечена как 17КI (буква I вместо цифры 1)",
+                "number": "11 в 1720 году",
+                "rarity": "",
+                "refID": "1a749ec8-9c1b-11e5-80f2-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "avers": "",
+        "comment": "наличие данной разновидности спорно, в каталоги она включается из уважения к Ильину однако нигде нет не только монет, но даже их изображений. Также немаловажный факт то что у Ильина данная разновидность включена в 1720 год, а у практически переписавшего его таблицы Юсупова еще и отмечена как 17КI т.е. четвертый символ не цифра 1, а буква I. Также данная монета упомянута у Рзаева (факт 185)",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a749ec8-9c1b-11e5-80f2-84a6c83e1b73",
+        "mint": "",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "комбинированная дата 17К1",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "Крайне спорная разновидность",
+        "year": "1721"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "Не различаются по типу орла",
+                "number": "12",
+                "rarity": "",
+                "refID": "1a71b80c-9c1b-11e5-8a67-84a6c83e1b73",
+                "srid": "Волмар"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "МиМ"
+            }
+        ],
+        "avers": "матричный орел образца 1720 -1721 годов",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a71b80c-9c1b-11e5-8a67-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1721"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "coins.su"
+            }
+        ],
+        "avers": "матричный орел образца 1720 -1721 годов",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a794646-9c1b-11e5-ac68-84a6c83e1b73",
+        "mint": "",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами, ПРП",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "Фальшак (подделка для обращения)",
+        "year": "1721"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "coins.su"
+            },
+            {
+                "file": "6f310411875960dac9224fe760e250ff.jpg",
+                "source": "coins.su"
+            }
+        ],
+        "avers": "матричный орел образца 1720 -1721 годов",
+        "comment": "http://coins.su/forum/index.php?showtopic=109079&page=1 - интересная дисскусия на тему, в частности там приведена и монета с таким же реверсом, но крайне корявым аверсом",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a74c5c6-9c1b-11e5-8285-84a6c83e1b73",
+        "mint": "",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами, набит зеркально",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "Фальшак (подделка для обращения)",
+        "year": "1721"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "13",
+                "rarity": "",
+                "refID": "1a681ec0-9c1b-11e5-9f3c-84a6c83e1b73",
+                "srid": "Волмар"
+            },
+            {
+                "comment": "",
+                "number": "4",
+                "rarity": "",
+                "refID": "1a681ec0-9c1b-11e5-9f3c-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.3150",
+                "rarity": "",
+                "refID": "1a681ec0-9c1b-11e5-9f3c-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "Фото продавца Sbrodovr с молотка"
+            }
+        ],
+        "avers": "матричный орел образца 1720 -1721 годов",
+        "comment": "",
+        "currCoinId": "{00401f3f-c902-4a75-9863-ce2298004dc3}",
+        "edge": "",
+        "id": "1a681ec0-9c1b-11e5-9f3c-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами; украшенный реверс",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1721"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "Не различаются по типу орла",
+                "number": "12",
+                "rarity": "",
+                "refID": "1a690e90-9c1b-11e5-9253-84a6c83e1b73",
+                "srid": "Волмар"
+            },
+            {
+                "comment": "",
+                "number": "233.3100",
+                "rarity": "",
+                "refID": "1a690e90-9c1b-11e5-9253-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "Efimok.ru"
+            }
+        ],
+        "avers": "матричный орел образца 1721-1722 годов (поздний)",
+        "comment": "",
+        "currCoinId": "{a476eb6c-c4a8-42ad-9379-ec486e959fa5}",
+        "edge": "",
+        "id": "1a690e90-9c1b-11e5-9253-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1721"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "МиМ"
+            }
+        ],
+        "avers": "\"пучеглазый\" орел (поздний орел набитый пуансоном пера); шарообразный хвост (разбитый античный?)",
+        "comment": "не исключено что все шарообразные хвосты это забившиеся античные",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a87c9f0-9c1b-11e5-b19f-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1721"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "Efimok.ru ?"
+            }
+        ],
+        "avers": "\"пучеглазый\" орел (поздняя разновидность угловатого); шарообразный хвост (разбитый античный?); малые короны о 3 зубцах контурные",
+        "comment": "не исключено что все шарообразные хвосты это забившиеся античные",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a887208-9c1b-11e5-92fc-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1721"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "coins.su"
+            }
+        ],
+        "avers": "у орла хвост с одним пером; центральная корона императорская",
+        "comment": "",
+        "currCoinId": "{2c7fecaf-efd7-4d17-af2f-0cfead087cf3}",
+        "edge": "",
+        "id": "1a8b9ec0-9c1b-11e5-9db6-84a6c83e1b73",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год буквами",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1721"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "http://coins.su/forum/index.php?showtopic=130322#entry1388903"
+            }
+        ],
+        "avers": "",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a36294c-9c1b-11e5-849a-84a6c83e1b73",
+        "mint": "",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "Фуфло (подделка для коллекционеров)",
+        "year": "1722"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "Фото продавца soroaa с молотка"
+            }
+        ],
+        "avers": "Орел образца 1719 года",
+        "comment": "Есть только одна монета в виде лота на молотке, на момент написания заметки (30.04.15) продавалась монета долго и упорно (на ЦФН было упоминание аж от 03.11.2013), продавец soroaa, цена 17900, http://molotok.ru/polushka-1722-orel-1719-g-unikalna-och-krasivaya-i5150683322.html. Обращает на себя внимание несоотвествие формы крука с двух сторон\n\nна 11.01.2016 продается тем же продавцом уже на ньюаукционе по цене 14900 http://newauction.ru/offer/polushka_1722_orel_1718_krajne_redka_idealnaja_sokhr-i12316013780681529.html",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a32ca68-9c1b-11e5-bf55-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "На заметку",
+        "year": "1722"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "http://coins.su/forum/index.php?showtopic=34412&page=36#entry1455296"
+            }
+        ],
+        "avers": "матричный орел образца 1721-1722 годов (поздний)",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a33d078-9c1b-11e5-b95f-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "ВРП мелкое с точками между буквами, 22 меньше",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1722"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "1722",
+                "rarity": "",
+                "refID": "1a220354-9c1b-11e5-a00d-84a6c83e1b73",
+                "srid": "Адрианов-Медь"
+            },
+            {
+                "comment": "",
+                "number": "3713",
+                "rarity": "",
+                "refID": "1a220354-9c1b-11e5-a00d-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "",
+                "number": "14",
+                "rarity": "",
+                "refID": "1a220354-9c1b-11e5-a00d-84a6c83e1b73",
+                "srid": "Волмар"
+            },
+            {
+                "comment": "",
+                "number": "1",
+                "rarity": "",
+                "refID": "1a220354-9c1b-11e5-a00d-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.3500",
+                "rarity": "",
+                "refID": "1a220354-9c1b-11e5-a00d-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": "2437",
+                "rarity": "",
+                "refID": "1a220354-9c1b-11e5-a00d-84a6c83e1b73",
+                "srid": "Уздеников"
+            },
+            {
+                "comment": "",
+                "number": "1",
+                "rarity": "",
+                "refID": "1a220354-9c1b-11e5-a00d-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "?"
+            }
+        ],
+        "avers": "матричный орел образца 1721-1722 годов (поздний)",
+        "comment": "",
+        "currCoinId": "{78546243-09be-4acd-9508-0977f576be72}",
+        "edge": "",
+        "id": "1a220354-9c1b-11e5-a00d-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами",
+        "status": "Коллекция",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1722"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "",
+                "number": "3714",
+                "rarity": "R1",
+                "refID": "1a2902d0-9c1b-11e5-8081-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "",
+                "number": "15",
+                "rarity": "",
+                "refID": "1a2902d0-9c1b-11e5-8081-84a6c83e1b73",
+                "srid": "Волмар"
+            },
+            {
+                "comment": "",
+                "number": "2",
+                "rarity": "",
+                "refID": "1a2902d0-9c1b-11e5-8081-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "",
+                "number": "233.3600",
+                "rarity": "",
+                "refID": "1a2902d0-9c1b-11e5-8081-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": "2",
+                "rarity": "",
+                "refID": "1a2902d0-9c1b-11e5-8081-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "http://coins.su/forum/index.php?showtopic=142268#entry1531632"
+            },
+            {
+                "file": "post-1336-0-73937900-1464733493.jpg",
+                "Источник": "http://coins.su/forum/index.php?showtopic=187993&page=52#entry2102187"
+            },
+            {
+                "file": "post-1336-0-64660300-1464733771.jpg",
+                "Источник": "http://coins.su/forum/index.php?showtopic=187993&page=52#entry2102187",
+                "описание": "переведенные с того же маточника монеты 1721 года, трилистника нет"
+            }
+        ],
+        "avers": "матричный орел образца 1721-1722 годов (поздний)",
+        "comment": "Всего один штемпель. Нет полной уверености выкрошка ли это или действительно украшение. Разновидность выведена по аналогии с 1721 годом, но там и трилистник другой (более явный), и еще есть украшения на монете. См. также http://coins.su/forum/index.php?showtopic=187993&page=52#entry2102187 - там пользоватедем Mihail  приведены подборки переведенных с этого маточника штемпелей 21 и 22 года, на 21 нет украшения",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a2902d0-9c1b-11e5-8081-84a6c83e1b73",
+        "mint": "Московский Кадашевский монетный двор",
+        "mintmark": "",
+        "overdates": "",
+        "rarity": "",
+        "revers": "год цифрами; трилистник под годом",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "Спорная разновидность",
+        "year": "1722"
+    },
+    {
+        "SourceRef": [
+            {
+                "comment": "На картинке фальшак для обращения",
+                "number": "3300",
+                "rarity": "R3",
+                "refID": "1a30317a-9c1b-11e5-b19d-84a6c83e1b73",
+                "srid": "Биткин"
+            },
+            {
+                "comment": "",
+                "number": "единственная разновидность",
+                "rarity": "10 рублей",
+                "refID": "1a30317a-9c1b-11e5-b19d-84a6c83e1b73",
+                "srid": "Ильин"
+            },
+            {
+                "comment": "ссылка на МиМ 59 (лот 29), там в каталоге фальшак для обращения",
+                "number": "233.3400",
+                "rarity": "",
+                "refID": "1a30317a-9c1b-11e5-b19d-84a6c83e1b73",
+                "srid": "Конрос-Базовый"
+            },
+            {
+                "comment": "",
+                "number": "2436",
+                "rarity": "черта",
+                "refID": "1a30317a-9c1b-11e5-b19d-84a6c83e1b73",
+                "srid": "Уздеников"
+            },
+            {
+                "comment": "",
+                "number": "+",
+                "rarity": "",
+                "refID": "1a30317a-9c1b-11e5-b19d-84a6c83e1b73",
+                "srid": "Юсупов2003"
+            }
+        ],
+        "attachments": [
+            {
+                "file": "Main.jpg",
+                "source": "http://numismat.ru/catalog_r.shtml?y=1722&u=2435#_2435 (МиМ 59 лот 29)"
+            }
+        ],
+        "avers": "",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "1a30317a-9c1b-11e5-b19d-84a6c83e1b73",
+        "mint": "",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": "",
+        "revers": "",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "Фальшак (подделка для обращения)",
+        "year": "1722"
+    }
+]
