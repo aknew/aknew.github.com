@@ -20,6 +20,7 @@
 
         </script>
         <script src="js/jquery-3.1.0.min.js"></script>
+        <script src="js/ColorsFromValue.js"></script>
         <script type="text/javascript">
         	$(document).ready(function(){
 										  $.ajax({
@@ -37,8 +38,45 @@
 											    	else {
 											    		text = ""
 											    	}
-											    	text += "<p> Аверс: " + data[i].avers +"<p>"
-											    	text += "<p> Реверс: " + data[i].revers +"<p>"
+                                                    if (data[i].varietyType!==""){
+                                                        text += "<font color=\""+variatyTypeColor(data[i].varietyType)+"\">"+data[i].varietyType+"</font><br>"
+                                                    }
+											    	text += "<p><b> Аверс:</b> " + data[i].avers +"<p>"
+											    	text += "<p><b> Реверс:</b> " + data[i].revers +"<p>"
+											    	text += "<p><b>Место чеканки:</b> " + data[i].mint +"<p>"
+
+                                                    if (data[i].rarity!==""){
+                                                       	text += "<p><b>Редкость:</b><font color=\""+rarity(data[i].rarity)+"\">"+data[i].rarity+"</font><p>"
+                                                    }
+
+                                                    if (data[i].comment!==""){
+                                                        text += "<p><b>Заметки:</b>"+ data[i].comment +"<p>"
+                                                    }
+
+                                                    if (typeof data[i].attachments!== 'undefined'){
+                                                        for (j = 0; j < data[i].attachments.length; j++) {
+                                                            var source = data[i].attachments[j].source
+                                                            if (typeof source === 'undefined'){
+                                                                source = data[i].attachments[j]["Источник"];
+                                                            }
+                                                            text += "<p><img src=\"data/" +data[i].id +"/"+data[i].attachments[j].file+"\" style=\"width:304px;\"></p><p><b>Источник картинки: </b>"+source +"</p>"
+                                                        }
+                                                    }
+
+                                                    if (typeof data[i].SourceRef !== 'undefined'){
+                                                        text += "<p><b>Монета в каталогах: </b>"
+                                                        for (j = 0; j < data[i].SourceRef.length; j++) {
+                                                            text += data[i].SourceRef[j].srid +" "
+                                                            text += data[i].SourceRef[j].number +" "
+                                                            text += data[i].SourceRef[j].rarity
+                                                            if (data[i].SourceRef[j].comment!==""){                                                            text += " (" + data[i].SourceRef[j].comment +")"
+                                                            }
+                                                        text += "; "
+                                                        }
+                                                        text += "</p>"
+
+                                                    }
+											    	
 											    	text += "<hr>"
 											    	$(".varietyList").append(text)
 												    
