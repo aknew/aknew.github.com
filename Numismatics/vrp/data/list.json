@@ -1888,6 +1888,28 @@
         "attachments": [
             {
                 "file": "Main.jpg",
+                "Источник": "http://www.staraya-moneta.ru/forum/f%D0%BErum63/t%D0%BEpic110869/"
+            }
+        ],
+        "avers": "орел с крупными перьеми в крыльях, центральная корона императорская контурная",
+        "comment": "",
+        "currCoinId": "",
+        "edge": "",
+        "id": "{94f31fc6-0ffc-4cb6-b32b-fab33e5a4e6a}",
+        "mint": "Московский Набережный монетный двор",
+        "mintmark": "НД",
+        "overdates": "",
+        "rarity": 2,
+        "revers": "год буквами; символы угловатые (вырезаны в ручную?)",
+        "status": "",
+        "typeID": "a5886730-bb5d-43f4-a172-52294bc18952",
+        "varietyType": "",
+        "year": "1719"
+    },
+    {
+        "attachments": [
+            {
+                "file": "Main.jpg",
                 "source": "ABRA.CAD.ABRA (ВРП на ревью)"
             }
         ],
