@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Мои проекты</title>
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52766593-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body>
+<H2>БД по подделкам для коллекционеров</H2>
+iOS версия базы данных <a href="http://coins.su/forum/forum/188-baza-po-poddelnym-monetam-rossiiskoi-imperii/">поддельных монет сайта coins.su</a>, пока в работе. По большому счету начав ее делать я пытаюсь убить двух зайцев - получить носимую офлайновую базу и поиспользовать некоторые фичи iOS SDK которые по разным причинам не могу использовать на работе<p>
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/VHJwwd0Shs8"
+  frameborder="0"></iframe>
+<p><a href="http://coins.su/forum/topic/207256-bd-po-poddelkam-v-vide-mobilnogo-prilozheniya/">ветка с обсуждением</a></p>
+<H2>БД по разновидностям (на qt)</H2>
+Изначально я собирался сделать для себя базу данных по разновидностям монет Российской империи с sqlite в качестве хранилища, но так уж получилось по ряду причин что в процессе мне захотелось иметь возможность быстро поменять структуру базы. Так в коде появилось формальное описание структуры базы, на основании которого данные изначально отрисовываись в QTableView. Позже это описание было вынесено в файл struct.json, за отображение данных стали отвечать динамически сгенеренные qml-файлы, оба этих изменения свзаны с портированием на Android: хотя формально QTableView и работал, он был совершенно не предназначен под мобильные устройства, в частности, скролбары были слишком мелкими, а изменение их с помощью стилей на Android'е не срабатывало (стоит отметить что это было во времена Necessitas, когда порт Qt на Android был даже не в бете), ну а вынесение struct.json связано просто с нежеланием перекомпилировать программу при каждом изменении структуры базы для нескольких платфор. Ну а дальше я просто стал использовать паралельно несколько баз с разной структурой и по факту программа превратилась в некое упрощенное подобие MS Access
+
+Если вдруг кто-то решит заглянуть в исходники, не забывайте что программа пишется в свободное время, к тому же начала писаться еще во времена Qt 4.7 и бет различных компонентов, так что там может быть изрядное количество костылей (я пытался их убрать, но не уверен что убрал все). Также поскольку я работаю один, зачатки документации есть только на родном для меня русском языке, а перевод на английский пока только в отдаленных планах<p>
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/gtKsirSclCg"
+  frameborder="0"></iframe>
+<p><a href="https://github.com/aknew/CoinsVariationBase">исходники на Github'e</a></p>
+<H2>Сравнение изображений</H2>
+Простенькая программа по совмещению двух картинок. Принцип действия очень простой - если у нас есть три точки на одной картинке и соответствующие им три на другой, то мы можем сделать из них систему линейных уравнений, где в качестве неизвестных будут параметры аффинного преобразования, а в качестве коэффициентов - координаты точек.  Выбор этих точек остается за пользователем.
+Основной код написан на js просто потому как работает везде, но я в данный момент делаю вариант для iOS на swift
+<p><a href="http://aknew.github.io/imageCompare/ImageComporation.html">рабочая версия</a></p>
+<p><a href="https://github.com/aknew/imageCompare">исходники на Github'e</a></p>
+<p><a href="http://coins.su/forum/topic/122674-programmka-dlya-bystrogo-vyravnivaniyasravneniya-monet/">ветка с обсуждением</a></p>
+<H2>Нахождение и кроп монет на большой картинке</H2>
+Небольшая утилитка, написанная на c++ с применением openCV, умеющая находить на большой картинке отдельные монеты (через детекцию контуров). По большому счету это даже не утилитка, а набросок просто, слепленый на коленке на основании статей в интернете по нахождению контуров за пару вечеров (поэтому же она собирается при помощи pro-файла - у меня в том момент только QtCreator стоял на компьютере)
+<p><a href="https://github.com/aknew/coinsShaper">исходники на Github'e</a></p>
+    <!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=25571072&amp;from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/25571072/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:25571072,lang:'ru'});return false}catch(e){}"/></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter25571072 = new Ya.Metrika({id:25571072,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/25571072" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+
+</html>
