@@ -16,11 +16,14 @@
 # title: Your awesome title
 email: kazansky85@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is something like CV
+  This site is just something which I'm planning to use in "site:" field
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  aknew
 exclude: Numismatics, imageCompare
+
+# Tracker
+analytics: UA-52766593-1 #UA-52766593-1
 
 # Build settings
 markdown: kramdown
