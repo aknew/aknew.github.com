@@ -10,6 +10,8 @@ layout: default
 
 [![](./Hackerrank_logo.png)https://www.hackerrank.com/aknew](https://www.hackerrank.com/aknew)
 
+[https://www.coursera.org/user/109adfba7692e66ce5d0ead582e81cb4](https://www.coursera.org/user/109adfba7692e66ce5d0ead582e81cb4)
+
 
 # Publications:
 
